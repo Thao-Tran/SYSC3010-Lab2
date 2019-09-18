@@ -1,2 +1,2 @@
-# SYSC 3010
-Third year project course repository
+# SYSC 3010 Lab 2
+UDP program written for lab 2 of SYSC3010
